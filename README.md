@@ -1,4 +1,4 @@
-# 2022 AAAAI abstract #480
+# 2022 AAAAI Featured Poster #480
 # Aspirin Exacerbated Respiratory Disease Can be Accurately Identified Using Sinonasal Mucus Lipid Biomarkers
 
 # Abstract
