@@ -25,9 +25,23 @@ Mediators with boxes were detected using the LC-MS technique.
 ## Distribution of Eicosanoids between groups
 ![](table2.png  "")
 
-
-
 From: Scott WC, Cahill KN, Milne GL, Li P, Sheng Q, Huang LC, Dennis S, Snyder J, Bauer AM, Chandra RK, Chowdhury NI, Turner JH. Inflammatory heterogeneity in aspirin-exacerbated respiratory disease. J Allergy Clin Immunol. 2021 Apr;147(4):1318-1328.e5. doi: 10.1016/j.jaci.2020.11.001. Epub 2020 Nov 12. PMID: 33189729; PMCID: PMC8035132.
+
+<br>
+<br>
+
+
+## Screeplot for selection of PCs
+
+![](Screeplot.png  "")
+
+<br>
+<br>
+
+## Loadings on each of the PCs for each eicosanoid
+
+![](PCloadings.png  "")
+
 
 # Measurement of Eicosanoids
 
